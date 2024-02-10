@@ -11,9 +11,9 @@ import FAQ from "./scenes/faq";
 import Geography from "./scenes/geography";
 import { CssBaseline, ThemeProvider } from "@mui/material";
 import { ColorModeContext, useMode } from "./theme";
-import Team from "./scenes/Team";
+import Team from "./scenes/team";
 import Topbar from "./scenes/global/TopBar";
-import Contacts from "./scenes/Contacts";
+import Contacts from "./scenes/contacts";
 import Calendar from "./scenes/calender";
 
 
