@@ -12,7 +12,7 @@ import Geography from "./scenes/geography";
 import { CssBaseline, ThemeProvider } from "@mui/material";
 import { ColorModeContext, useMode } from "./theme";
 import Team from "./scenes/team";
-import Topbar from "./scenes/global/TopBar";
+import Topbar from "./scenes/global/Topbar";
 import Contacts from "./scenes/contacts";
 import Calendar from "./scenes/calender";
 
